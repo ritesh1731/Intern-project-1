@@ -18,13 +18,35 @@ h1, h5 {
 
 .Heading-text {
   font-size: 5rem;
-  font-weight: 200;
+  font-weight: 150;
   color: white;
+  /* color: #cf7500; */
   padding 0;
   margin: 0;
   position: absolute;
   left: 90px;
   bottom: 350px;
+  width: 45rem;
+  text-align: left;
+font-family: 'Viga', sans-serif;
+}
+.main-btn{
+
+  border-radius: 20px;
+  font-size: 2rem;
+  margin-top: 10rem;
+  margin-left: 2px;
+  width: 15rem;
+  position: absolute;
+  left: 90px;
+  bottom: 230px;
+
+}
+.book-now{
+  position: absolute;
+  left: 380px;
+  bottom: 230px;
+  width: 14rem;
 }
 
 .trend {
