@@ -33,7 +33,7 @@ font-family: 'Viga', sans-serif;
 
 .main-btn{
   border-radius: 20px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-top: 10rem;
   margin-left: 2px;
   width: 15rem;
@@ -44,7 +44,7 @@ font-family: 'Viga', sans-serif;
 }
 .book-now{
   position: absolute;
-  left: 380px;
+  left: 360px;
   bottom: 200px;
   width: 14rem;
 }
@@ -1212,3 +1212,4 @@ text-decoration: none;
 #bg-color{
   background-color: #dae1e7;
 }
+
